@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yafimk/simple-nodejs-servers/issues"
   },
-  "homepage": "https://github.com/yafimk/simple-nodejs-servers#readme"
+  "homepage": "https://github.com/yafimk/simple-nodejs-servers#readme",
+  "dependencies": {
+    "commander": "^2.13.0"
+  }
 }
